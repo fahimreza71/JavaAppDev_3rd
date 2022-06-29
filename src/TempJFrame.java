@@ -415,7 +415,7 @@ public class TempJFrame extends javax.swing.JFrame {
                 String Sem = rs.getString("Semester");
                 String Sec = rs.getString("Section");
                 String Cg = rs.getString("CGPA");
-                String Cnt = rs.getString("COntact");
+                String Cnt = rs.getString("Contact");
                 jTextField9.setText(Name);
                 jTextField11.setText(Dept);
                 jTextField12.setText(Sem);
